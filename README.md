@@ -5,8 +5,6 @@ Python 2.7
 
 Buy Coffee :
 <li>Bitcoin $: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</li>
-<li>Saweria $: https://saweria.co/Shin403</li>
-<li>Trakteer $: https://trakteer.id/shin403</li>
 
 ![Screenshot_2023-07-30-05-11-00-025-edit_com termux](https://github.com/Jenderal92/Kcfinder-Mass-Scanner/assets/59664965/11b6d3d9-5773-43eb-abc6-ffd32c965bbf)
 
